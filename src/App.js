@@ -61,6 +61,10 @@ function App() {
   return (
 
     <>
+ <div className='title'>
+        Trivia!
+      </div>
+
     <form className='header' onSubmit={handleSubmit}>
       <div  className='form-group'>
         <label htmlFor='category'>Category</label>
