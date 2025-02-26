@@ -8,8 +8,6 @@ An interactive trivia game built with React. Users can select a category and the
 ## Features
 
 - **Category Selection:** Choose a trivia category from a list of available options.
-  ![trivia-categories](https://github.com/user-attachments/assets/4ddb9a4e-463c-47ee-891a-f1694a5fca66)
-
 - **Customizable Questions:** Select the number of trivia questions to generate.
 - **Flashcards:** View questions on the front of flashcards and reveal the answers on the back.
 - **Responsive Design:** Mobile-friendly and fully responsive.
@@ -51,5 +49,11 @@ The app should now be running on [http://localhost:3000](http://localhost:3000).
 2. **Select Number of Questions:** Input the number of questions you want to answer.
 3. **Generate Questions:** Click the "Generate Qs" button to fetch and display the questions.
 4. **Answer Questions:** Click on the flashcards to flip them and reveal the correct answer.
+
+
+  ![trivia-categories](https://github.com/user-attachments/assets/4ddb9a4e-463c-47ee-891a-f1694a5fca66)
+  ![trivia-cards](https://github.com/user-attachments/assets/11c0b789-758b-4042-a7fc-7b53ca457d1a)
+  ![front](https://github.com/user-attachments/assets/da17ab16-0176-486c-a311-fb1ce031e346)
+  ![back](https://github.com/user-attachments/assets/12f2005b-83a6-461f-87d0-15a4e54b7ed1)
 
 
