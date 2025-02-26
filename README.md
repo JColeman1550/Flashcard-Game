@@ -8,6 +8,8 @@ An interactive trivia game built with React. Users can select a category and the
 ## Features
 
 - **Category Selection:** Choose a trivia category from a list of available options.
+  ![trivia-categories](https://github.com/user-attachments/assets/4ddb9a4e-463c-47ee-891a-f1694a5fca66)
+
 - **Customizable Questions:** Select the number of trivia questions to generate.
 - **Flashcards:** View questions on the front of flashcards and reveal the answers on the back.
 - **Responsive Design:** Mobile-friendly and fully responsive.
