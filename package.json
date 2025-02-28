@@ -40,7 +40,8 @@
   "devDependencies": {
     "typescript": "^4.9.5"
   },
-  "engines": {
-    "node": "22.x"
-  }
+ "engines": {
+  "node": "16.x || 22.x"
+}
+
 }
